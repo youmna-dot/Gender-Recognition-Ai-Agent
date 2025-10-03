@@ -1,4 +1,4 @@
-# Gender Recognition AI Agent
+# Gender Recognition AI Agent 
 
 ## 📌 Description
 This project uses a TensorFlow Lite model to recognize gender (Male or Female) from an image.
